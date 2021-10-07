@@ -1,0 +1,3 @@
+${USERNAME};${PASSWORD};${ERROR_MSG};
+"";"";Epic sadface: Username is required;
+nome;senha;Epic sadface: Username and password do not match any user in this service;
